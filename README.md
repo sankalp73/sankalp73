@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankalp73
 - 👀 I’m interested in building Secure Software, Application security, building security tools and Software Development.
-- 🌱 I’m currently working towards my master's in Engineering with a focus on Cybersecurty
+- 🌱 I’m currently working towards my master's in Engineering with a focus on network and security.
 - 💞️ I’m looking to collaborate on : Projects in the networking and security sphere.
 - 📫 How to reach me : Contact me on email : sankalpk73@gmail.com
 
